@@ -1,0 +1,21 @@
+# LangGraph Orchestrator Dependencies
+
+# LangGraph & LangChain
+langgraph>=0.0.40
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-core>=0.1.0
+
+# Kafka
+aiokafka>=0.10.0
+
+# Redis
+redis>=5.0.0
+
+# Vector DB
+qdrant-client>=1.7.0
+
+# Utilities
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+python-dotenv>=1.0.0
