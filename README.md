@@ -2,6 +2,8 @@
 
 LangGraph + Kafka + Redis 기반 Multi-AI Agent 고객 지원 자동화 시스템
 
+Antigravity로 개발
+
 ## 기술 스택
 
 - **Language**: Python 3.11+
